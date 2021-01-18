@@ -1,4 +1,4 @@
-insert_date,city,poi_id,poi_name,poi_lat,poi_long,intensity,occupation,load
+insert_date,city,poi_id,poi_name,poi_lat,poi_lon,intensity,occupation,load
 2020-12-20 13:35:08,Madrid,3409,SEPULVEDA Ø118 N-S (CEBREROS-CJAL. FCO. J. JIMENEZ),40.401447,-3.7541516712546996,144,1,6
 2020-12-25 10:40:05,Madrid,4742,ALHAMBRA Ø23 N-S (CJAL. FCO. J. JIMENEZ -CUART POBLET),40.399901,-3.744637846396147,493,5,20
 2021-01-05 17:44:18,Madrid,4746,"ALHAMBRA, 94 N-S (CULLERA-GTA. LOS CARMENES)",40.396685,-3.743904389693185,180,0,6
