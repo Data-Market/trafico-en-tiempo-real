@@ -11,7 +11,7 @@ A continuación se muestran las columnas de las que consta el dataset en el form
 | poi_id     | int      | Código de identificación del punto de medida de la densidad de tráfico.                                     | 3409                                                |
 | poi_name   | str      | Nombre del punto de medida de la densidad de tráfico.                                                       | SEPULVEDA Ø118 N-S (CEBREROS-CJAL. FCO. J. JIMENEZ) |
 | poi_lat    | geo      | Coordenada geográfica de latitud correspondiente a un punto de medida de densidad de tráfico.               | 40.401447                                           |
-| poi_long   | geo      | Coordenada geográfica de longitud correspondiente a un punto de medida de densidad de tráfico.              | -3.7541516712546996                                 |
+| poi_lon   | geo      | Coordenada geográfica de longitud correspondiente a un punto de medida de densidad de tráfico.              | -3.7541516712546996                                 |
 | intensity  | int      | Intensidad de número de vehículos por hora.                                                                 | 144                                                 |
 | occupation | int      | Porcentaje de ocupación del punto de control por los vehículos.                                             | 1                                                   |
 | load       | int      | Parámetro de carga del vial en función de la intensidad, ocupación y características de la infraestructura. | 6                                                   |
