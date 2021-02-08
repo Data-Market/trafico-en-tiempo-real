@@ -23,7 +23,7 @@ Este repositorio contiene los siguientes recursos:
 
 ## Muestra
 
-La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/trafico-en-tiempo-real-dataset/blob/main/trafico-en-tiempo-real-dataset.csv).
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/trafico-en-tiempo-real/blob/main/trafico-en-tiempo-real-sample.csv).
 
 ## Documentación
 
