@@ -11,8 +11,8 @@ Datos sobre el __tráfico en Madrid y Barcelona__.
 Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: en tiempo real
-* __Volumen estimado__: 
-* __Histórico__: 
+* __Volumen estimado__: 1.5 millones de registros cada día
+* __Histórico__: desde 2013
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#trafico-en-tiempo-real-dataset), plataforma de referencia de datos externos en España. 
 
