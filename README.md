@@ -1,7 +1,7 @@
 # Datasets de Tráfico en Tiempo Real
 
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/trafico-en-tiempo-real-banner.png">
+  <img src="https://datamarket.es/media/banners/trafico-en-tiempo-real-banner.png">
 </a>
 
 ## Descripción
